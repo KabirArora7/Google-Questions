@@ -5,57 +5,57 @@
 
 
 
-1. Two Sum
-2. Palindrome Number
-3. Median of Two Sorted Arrays
-4. Longest Substring Without Repeating Characters
-5. 3Sum
-6. Add Two Numbers
-7. Best Time to Buy and Sell Stock
-8. Roman to Integer
-9. Concatenation of Array
+1. Two Sum ✅
+2. Palindrome Number ✅
+3. Median of Two Sorted Arrays --
+4. Longest Substring Without Repeating Characters ✅
+5. 3Sum  ✅
+6. Add Two Numbers  ✅
+7. Best Time to Buy and Sell Stock  ✅
+8. Roman to Integer ✅
+9. Concatenation of Array ✅
 10. Longest Consecutive Sequence
 11. Longest Palindromic Substring
-12. Merge Sorted Array
+12. Merge Sorted Array ✅
 13. Remove Duplicates from Sorted Array
 14. Recyclable and Low Fat Products
 15. Search in Rotated Sorted Array
-16. Reverse Integer
+16. Reverse Integer ✅
 17. Split Array Largest Sum
-18. Valid Palindrome
+18. Valid Palindrome ✅
 19. Majority Element
-20. Valid Anagram
-21. Group Anagrams
-22. Longest Common Prefix
-23. Subarray Sum Equals K
-24. Trapping Rain Water
-25. Container With Most Water
+20. Valid Anagram ✅
+21. Group Anagrams ✅
+22. Longest Common Prefix 
+23. Subarray Sum Equals K ✅
+24. Trapping Rain Water ✅
+25. Container With Most Water 
 26. Search Insert Position
-27. Climbing Stairs
-28. Valid Parentheses
+27. Climbing Stairs ✅
+28. Valid Parentheses ✅
 29. 3Sum Closest
 30. Combine Two Tables
-31. Reverse Linked List
+31. Reverse Linked List ✅ --
 32. Contains Duplicate
 33. Plus One
 34. Move Zeroes
 35. Number of Islands
-36. Binary Search
-37. Reverse String
+36. Binary Search ✅
+37. Reverse String ✅
 38. Add Two Integers
 39. Stone Game
 40. Subarray Product Less Than K
 41. Find Customer Referee
 42. Next Greater Element I
-43. Top K Frequent Elements
-44. Koko Eating Bananas
+43. Top K Frequent Elements ✅
+44. Koko Eating Bananas ✅ --
 45. Burst Balloons
 46. Maximum Subarray
 47. Pascal's Triangle
 48. Find the Index of the First Occurrence in a String
 49. Create Hello World Function
 50. Max Consecutive Ones
-51. Valid Palindrome II
+51. Valid Palindrome II 
 52. Largest Rectangle in Histogram
 53. Merge Two Sorted Lists
 54. Combination Sum
