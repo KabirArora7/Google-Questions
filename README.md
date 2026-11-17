@@ -19,7 +19,7 @@
 12. Merge Sorted Array ✅
 13. Remove Duplicates from Sorted Array ✅   i and k, k -> spot to fill in uniq element
 14. Recyclable and Low Fat Products (SQL Q) ❌
-15. Search in Rotated Sorted Array
+15. Search in Rotated Sorted Array -- R
 16. Reverse Integer ✅
 17. Split Array Largest Sum
 18. Valid Palindrome ✅
@@ -29,20 +29,20 @@
 22. Longest Common Prefix 
 23. Subarray Sum Equals K ✅
 24. Trapping Rain Water ✅
-25. Container With Most Water 
-26. Search Insert Position
+25. Container With Most Water -- R
+26. Search Insert Position ✅
 27. Climbing Stairs ✅
 28. Valid Parentheses ✅
 29. 3Sum Closest
-30. Combine Two Tables
-31. Reverse Linked List ✅ --
-32. Contains Duplicate
-33. Plus One
-34. Move Zeroes
-35. Number of Islands
+30. Combine Two Tables (SQL Q) ❌
+31. Reverse Linked List ✅ 
+32. Contains Duplicate ✅ 
+33. Plus One -- R 💛
+34. Move Zeroes ✅
+35. Number of Islands 💛
 36. Binary Search ✅
 37. Reverse String ✅
-38. Add Two Integers
+38. Add Two Integers ✅💛   -> carry = val // 10    val = val % 10
 39. Stone Game
 40. Subarray Product Less Than K
 41. Find Customer Referee
