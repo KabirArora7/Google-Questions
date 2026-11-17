@@ -955,10 +955,3 @@ Easy
 235. Lowest Common Ancestor of a Binary Search Tree
 71.4%
 Med.
-
-
-
-
-
-
-I need plain text not any fancy table
