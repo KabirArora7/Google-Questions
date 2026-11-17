@@ -17,7 +17,7 @@
 10. Longest Consecutive Sequence
 11. Longest Palindromic Substring
 12. Merge Sorted Array ✅
-13. Remove Duplicates from Sorted Array
+13. Remove Duplicates from Sorted Array ✅   i and k, k -> spot to fill in uniq element
 14. Recyclable and Low Fat Products
 15. Search in Rotated Sorted Array
 16. Reverse Integer ✅
