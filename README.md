@@ -33,7 +33,7 @@
 26. Search Insert Position ✅
 27. Climbing Stairs ✅
 28. Valid Parentheses ✅
-29. 3Sum Closest
+29. 3Sum Closest ✅ -- Check curr sum, move l and r ptrs
 30. Combine Two Tables (SQL Q) ❌
 31. Reverse Linked List ✅ 
 32. Contains Duplicate ✅ 
