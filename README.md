@@ -44,7 +44,7 @@
 37. Reverse String ✅
 38. Add Two Integers ✅💛   -> carry = val // 10    val = val % 10
 39. Stone Game
-40. Subarray Product Less Than K
+40. Subarray Product Less Than K ✅ -> Crap, sliding window -> product , *= and /=, check bounds, subarray contigous
 41. Find Customer Referee
 42. Next Greater Element I
 43. Top K Frequent Elements ✅
